@@ -1,0 +1,113 @@
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: #32639A;
+		border-radius:15px
+}
+
+a {
+	text-decoration: none;
+	color: #4486C7;
+		border-radius:15px
+}
+a:hover {
+text-decoration:underline;
+	color: #8A8A8A;
+		border-radius:15px
+}
+/* Header */
+#Header {
+	width: 820px;
+	height: 0px;
+	margin: 0 auto;
+	background: url(img/Header.jpg);
+		border-radius:15px
+}
+/* Menu */
+
+#Menus {
+	width: 850px;
+	height:47px;
+	margin: 0 auto;
+	padding: 0;
+	background: url(img/Menu.jpg);
+		border-radius:15px
+}
+
+#Menus ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+		border-radius:15px
+}
+
+#Menus li {
+	float: left;
+		border-radius:15px
+}
+
+#Menus a {
+	display: block;
+	width: 80px;
+	height: 31px;
+	padding-top: 16px;
+	text-decoration: none;
+	text-align: center;
+	font-family: colonna MT, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	border: none;
+	color:black;
+	border-radius:15px;
+ }
+#menu-bar a {
+  font-weight: italic;
+  font-family: italic;
+  font-style: normal;
+  font-size: 10px;
+  color:#4169E1;
+  text-decoration: none;
+  display: block;
+  padding: 5px 20px 5px 20px;
+  margin: 0;
+  text-shadow: 1px 1px 1px #121212;
+  background: white
+  	border-radius:15px
+ 
+}
+#menu-bar a:hover {
+  background:#800080!important;
+  color:black !important;
+  	border-radius:15px
+ 
+}
+
+#Menus a:Hover {
+background-image: url(img/Hover.jpg);
+color:black;
+color: #30476A;
+	border-radius:15px
+
+}
+#Menus .active a {
+	background: #FBFBFC url(img/Active.jpg)  repeat-x left bottom;
+	padding-left: 0;
+	color: #30476A;
+
+		border-radius:15px
+}
+#Footer {
+    padding-top:138px;
+	height: 50px;
+	margin: 0 auto;
+	margin-top:12px;
+	padding: 0px 0 15px 0;
+	background: #D8E7FE;
+	border-top: 1px solid #D3DEF0;
+	text-align:center;
+	color:gray;
+		border-radius:15px
+}

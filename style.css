@@ -1,0 +1,259 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: white url(image/bg.jpg) repeat-x left top;
+	position:relative;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:10px;
+    line-height:12px;
+    text-align:justify;
+    padding-left:0px;
+    	border-radius:15px
+}
+#restable td,th
+{
+border-top:1px solid #686868; 
+border-bottom:1px solid #686868;
+border-left:1px solid #686868;
+
+}
+#subsidebar3 
+{
+	background-color:#f5deb3;
+	font:14px Verdana, Arial, Helvetica, sans-serif;
+	width:99%;
+	vertical-align:top;
+	color:#111111;
+	font-weight:bold;
+	padding-top:2px;
+	padding-left:1%;
+	height:20px;
+	border-bottom:1px solid #cf9526;
+	
+}
+#navoff {
+	background-image:images/header_07.gif;
+	text-indent: 20px;
+	height: 23px;
+	width: 152px;
+	background-repeat: no-repeat;
+	font-weight: bold;
+	color:#000000;
+	
+}
+
+
+#vtable th
+{
+border-bottom:1px solid #336699;
+border-top:1px solid #336699; 
+padding-bottom:12px;
+border-left:1px solid #336699;
+border-right:1px solid #336699;
+width:300;
+
+
+}
+#vtable td
+{
+border-bottom:1px solid #336699 ;
+border-left:1px solid #336699;
+border-right:1px solid #336699;
+
+}
+#eee
+{
+border:1px solid #000000;
+	border-radius:15px
+}
+#Upload {
+	width: 25em;
+	margin: 1em auto;
+	padding:0 2em 2em 2em ;
+	border:1px solid #bbb;
+	color: #333;
+	background:#ffd;
+	font: 0.9em verdana, sans-serif;
+		border-radius:15px
+}
+			
+#Upload h1{
+	font: 1.4em bold verdana, sans-serif;
+	margin: 0;
+	padding:1em 0;
+	text-align:center;
+		border-radius:15px
+}
+#Upload label{
+	float: left;
+	width: 7em;
+}
+		
+#Upload p {
+	 clear: both;
+}		
+
+#red{
+	color:red;
+}
+
+#middletxtheader
+{
+
+font:15px italic;
+	background:none;
+	padding:5px;
+	text-align:center;
+	color:none;
+	font-weight:bold;
+	
+}
+#xt 
+{ 
+	text-indent:15px;
+} 
+
+
+ #middletxtheadermain
+{
+color:black;
+
+	background:#fff;
+	height:180px;
+	padding:5px;
+	border:1px dotted #aaaaaa;
+	width:95%;
+	margin-top:10px;
+}
+#middletxtheader
+{
+
+font:15px italic;
+	background:none;
+	padding:5px;
+	text-align:center;
+	color:none;
+	font-weight:bold;
+}
+#Footer {
+    padding-top:138px;
+	height: 50px;
+	margin: 0 auto;
+	margin-top:12px;
+	padding: 0px 0 15px 0;
+    background: white url(image/bg.jpg) repeat-x left top;
+		border-radius:15px
+}
+
+#sample
+{
+background: white url(images/bg.jpg) repeat-x left top;
+height:80px;
+	border-radius:15px
+}
+#insides {
+   border:1px solid #000000;
+	font-weight:bold;
+   }
+	
+	#insides1{
+   border:1px solid #000000;
+   fieldset:200px
+   background: white url(image/bg.jpg) repeat-x left top;
+   	border-radius:15px
+   }
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: #32639A;
+}
+
+a {
+	text-decoration: none;
+	color: #4486C7;
+}
+a:hover {
+text-decoration:underline;
+	color: #8A8A8A;
+}
+#Wrapper{
+width: 920px;
+height:920px;
+margin:auto;
+
+border: 1px thin #C4BE71;
+}
+/* Header */
+#Header {
+	width: 920px;
+	height: 0px;
+	margin: 0 auto;
+	background: url(img/Header.jpg);
+		border-radius:15px
+}
+/* Menu */
+#Menu {
+	width: 900px;
+	height:47px;
+	margin: 0 auto;
+	padding: 0;
+	background: url(img/Menu.jpg);
+}
+
+#Menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+#Menu li {
+	float: left;
+}
+
+#Menu a {
+	display: block;
+	width: 80px;
+	height: 31px;
+	padding-top: 16px;
+	text-decoration: none;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	border: none;
+	color:white;
+}
+
+#Menu a:Hover {
+background-image: url(img/Hover.jpg);
+color:black;
+color: #30476A;
+}
+#Menu .active a {
+	background: #FBFBFC url(img/Active.jpg)  repeat-x left bottom;
+	padding-left: 0;
+	color: #30476A;
+}
+#menu-bar {
+  font-weight: italic;
+  font-family: italic;
+  font-style: normal;
+  font-size: 15px;
+  color: #000000;
+  text-decoration: none;
+  display: block;
+  padding: 5px 20px 5px 20px;
+  margin: 0;
+  text-shadow: 1px 1px 1px #121212;
+ 
+}
+.para1_text{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+line-height:18px;
+text-align:justify;
+padding-left:20px;
+	border-radius:15px
+}
